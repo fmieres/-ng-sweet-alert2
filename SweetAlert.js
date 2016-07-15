@@ -1,14 +1,8 @@
-/**
-@fileOverview
-
-@toc
-
-*/
 
 'use strict';
 
-angular.module('oitozero.ngSweetAlert', [])
-.factory('SweetAlert', [ '$rootScope', function ( $rootScope ) {
+angular.module('ngSweetAlert2', [])
+.factory('SweetAlert2', [ '$rootScope', function ( $rootScope ) {
 
 	var swal = window.swal;
 
