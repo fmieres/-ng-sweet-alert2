@@ -3,13 +3,6 @@
 	"version": "1.1.0",
 	"main": "./SweetAlert.js",
 	"description": "AngularJS wrapper for SweetAlert",
-	"keywords": [
-		"angular",
-		"AngularJs",
-		"sweetalert",
-		"sweet",
-		"alert"
-	],
 	"license": "MIT",
 	"ignore": [
 		"**/.*",
